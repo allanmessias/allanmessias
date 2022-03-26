@@ -4,10 +4,10 @@
 
 ## - 🎡️ Status :
 <a href="https://github.com/allanmessias/github-readme-stats">
-  <img height:"180" src="https://github-readme-stats.vercel.app/api?username=allanmessias&show_icons=true&theme=radical" />
+  <img align"center" height:"180" src="https://github-readme-stats.vercel.app/api?username=allanmessias&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/allanmessias/">
-  <img height:"180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanmessias&theme=radical&layout=compact" />
+  <img align:"center" height:"180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanmessias&theme=radical&layout=compact" />
 </a>
 
 ## - 👨‍💻️ Techs:

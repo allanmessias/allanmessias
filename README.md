@@ -1,6 +1,6 @@
 ## - 👋 Olá! Allan aqui :)
 
-<p>Estudante de Ciências da Computação! Atualmente estudando Desenvolvimento Web, com foco em funcionalidades em web apps.</p>
+<p>Estudante de Ciências da Computação! Atualmente estagiário de Desenvolvimento Web! Aqui guardo meus estudos em linguagens que me interesso e também em assuntos diversos relacionados à Ciência da Computação.</p>
 
 ## - 🎡️ Status :
 <a href="https://github.com/allanmessias/github-readme-stats">
